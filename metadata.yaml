@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32996'
     url: http://www.gutenberg.org/2009/agents/32996
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30378#The-Merriweather-Girls-and-the-Mystery-of-the-Queen-s-Fan
 gutenberg_issued: '2009-10-31'
 gutenberg_type: Text
 identifiers:
